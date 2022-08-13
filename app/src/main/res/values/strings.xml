@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="mvp">MVP Architecture Pattern</string>
+    <string name="example">EXAMPLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="next_course">Next Course</string>
+</resources>
